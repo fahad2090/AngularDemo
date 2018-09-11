@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TestingAngularDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
@@ -47,4 +46,4 @@ If you want to learn more about creating good readme files then refer the follow
 - [ASP.NET Core](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
->>>>>>> 480aeb8716d1cc55be82f338f0427bd361e7806f
+
