@@ -24,7 +24,7 @@ describe('testing-angular-demo App', () => {
       });
     });
   });
-  it('Test button should display Test!', () => {
+  /*it('Test button should display Test!', () => {
     page.navigateTo();
     var button = element(by.buttonText('Test Button'));
     button.click().then(ret => {
@@ -32,6 +32,6 @@ describe('testing-angular-demo App', () => {
       expect(text).toEqual('Test value: Test!');
 
     });
-  })
+  })*/
 });
 
