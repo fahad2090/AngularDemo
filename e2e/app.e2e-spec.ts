@@ -18,7 +18,7 @@ describe('testing-angular-demo App', () => {
         let newWindow = handles[1];
         browser.switchTo().window(newWindow).then(() => {
           expect(browser.getCurrentUrl().then()).toBe('https://angular.io/tutorial');
-          browser.switchTo().window(handles[0]);
+          //browser.switchTo().window(handles[0]);
         });
 
       });
